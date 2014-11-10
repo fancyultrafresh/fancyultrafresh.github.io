@@ -1,3 +1,10 @@
+.about {
+  color: red;
+  float: right;
+  padding-right: 20%;
+}
+
 p {
-color: blue;
+  color: blue;
+  max-width: 800px;
 }
