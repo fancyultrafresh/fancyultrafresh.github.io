@@ -6,10 +6,56 @@
 }
 
 .post {
-  color: red;
+  color:#000066;
   max-width: 75%;
 }
 
 p {
   color: ;
+}
+
+html {
+  background-color:#c0c0c0;
+
+}
+
+body {
+  color:#000066;
+}
+
+a {
+  color:#66ffff;
+
+}
+
+a:visited {
+  color:#ffccff;
+
+}
+
+li {
+  width: 50%;
+  float: left;
+  height: 60px;
+
+}
+
+.menu {
+  border-top: 1px solid;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+.clear {
+  clear:both;
+  float:none;
+}
+
+.heading {
+  font-size: 20px;
+  text-transform:uppercase;
+}
+
+.heading small {
+  font-size:70%;
 }
