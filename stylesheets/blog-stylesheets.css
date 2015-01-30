@@ -1,18 +1,25 @@
 html {
-  background-color:#c0c0c0;
+  background-color:#EEE9BF;
+
 }
 
 body {
-  font-family: helvetica;
-  color:#000066;
+  font-family: 'Bitter', serif;
+  color:#54632C;
 }
 
-a {
-  color:#66ffff;
+a:link {
+  color:#8B814C;
+  text-decoration: none;
 }
 
 a:visited {
-  color:#ffccff;
+  color:#8B814C;
+  text-decoration: none;
+}
+
+a:hover {
+  text-transform: uppercase;
 }
 
 h4 {
@@ -24,7 +31,8 @@ h4 {
   display: block;
   margin:0px;
   padding:0px;
-  width: 75%;
+  width: 70%;
+  border: 1.5px dotted #8B814C;
 }
 
 ul {
